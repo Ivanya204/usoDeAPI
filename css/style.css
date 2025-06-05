@@ -21,3 +21,7 @@
 .add-button:hover{
     transform: scale(1.1);
 }
+
+.tabla-scroll{
+    overflow: auto; /*Para que cuando la pantalla sea pequeña haya un scroll*/
+}
